@@ -179,7 +179,7 @@ padding: 17px 15px 14px;
 }
 
 @media screen and (max-width:576px) {
-  body{
+  *{
     overflow-x: hidden;
   }
   .products{
